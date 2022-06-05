@@ -1,0 +1,13 @@
+{
+  "name": "d3-learning",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r run build"
+  },
+  "keywords": [
+    "d3"
+  ],
+  "author": "Malcolm Kee",
+  "license": "MIT"
+}
